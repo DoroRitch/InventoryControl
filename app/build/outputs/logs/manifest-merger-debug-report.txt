@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7b6fc9199c1cb42f8c32194766ba674b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0281f7d6c10fbae06ed865a0d5282e3e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e0421edf6489fbbac0a9dfeff4c26288\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9f4dde0bd133c6f31451c9709677e7dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\526206e11c84da5bbca73d6b6b8c1885\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\40179d1aa9cdb1032f82388cc9132c53\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7e47df88ad29833bdfe663c771ac3007\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\07e07632bac2219b32750b255f2fefa5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e7c74beee80faa5620df1ae1e8afc27e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\844ed2b2a32897f7907eda4e64aceb63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\29cb5c617e602c7a11068e49da910de9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0abd722998ceb5a3618be0778b152240\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\d10f4762563dc06bdd18d23cd7640152\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\5dad1357358b141047420b671a0784aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\bd605bed75c14c44167206663235661d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\a1f5a8ac338b3f024a2397413120545a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7db76c38d4633e60a68a8e45c3cdbcbe\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\fae1ad02acca067280c94e1d13718798\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\14a0799b4871901e6c114de72215e6bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\6f95c912f738f28e9ad339e0dbbe8c41\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9a67ed0554638955f866171146547a4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9abf7f0fb0d4f5b634f8b986b94cd014\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\fcbf74a78f001c31ebc3f2c7c6bad95e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e3c253254c8095b813c14e1652c38c4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0ccb07cca1bd80d39daa8048ce6afb55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\01e9a320c1e482375cc3b531b1a6e02d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\29f2222f9fe01e525e7b904e50e9e5c7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0281f7d6c10fbae06ed865a0d5282e3e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0281f7d6c10fbae06ed865a0d5282e3e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\a1f5a8ac338b3f024a2397413120545a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\a1f5a8ac338b3f024a2397413120545a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7db76c38d4633e60a68a8e45c3cdbcbe\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7db76c38d4633e60a68a8e45c3cdbcbe\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\a1f5a8ac338b3f024a2397413120545a\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.inventorycontrol.MainActivity
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.inventorycontrol.newItem
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:19:19-42
+activity#com.example.inventorycontrol.changeCount
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:20:9-48
+	android:name
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:20:19-46
+activity#com.example.inventorycontrol.deleteItem
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:21:9-47
+	android:name
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:21:19-45
+activity#com.example.inventorycontrol.ControlRecord
+ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml:22:19-48
+uses-sdk
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7b6fc9199c1cb42f8c32194766ba674b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7b6fc9199c1cb42f8c32194766ba674b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0281f7d6c10fbae06ed865a0d5282e3e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0281f7d6c10fbae06ed865a0d5282e3e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e0421edf6489fbbac0a9dfeff4c26288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e0421edf6489fbbac0a9dfeff4c26288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9f4dde0bd133c6f31451c9709677e7dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9f4dde0bd133c6f31451c9709677e7dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\526206e11c84da5bbca73d6b6b8c1885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\526206e11c84da5bbca73d6b6b8c1885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\40179d1aa9cdb1032f82388cc9132c53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\40179d1aa9cdb1032f82388cc9132c53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7e47df88ad29833bdfe663c771ac3007\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7e47df88ad29833bdfe663c771ac3007\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\07e07632bac2219b32750b255f2fefa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\07e07632bac2219b32750b255f2fefa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e7c74beee80faa5620df1ae1e8afc27e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e7c74beee80faa5620df1ae1e8afc27e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\844ed2b2a32897f7907eda4e64aceb63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\844ed2b2a32897f7907eda4e64aceb63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\29cb5c617e602c7a11068e49da910de9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\29cb5c617e602c7a11068e49da910de9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0abd722998ceb5a3618be0778b152240\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0abd722998ceb5a3618be0778b152240\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\d10f4762563dc06bdd18d23cd7640152\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\d10f4762563dc06bdd18d23cd7640152\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\5dad1357358b141047420b671a0784aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\5dad1357358b141047420b671a0784aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\bd605bed75c14c44167206663235661d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\bd605bed75c14c44167206663235661d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\a1f5a8ac338b3f024a2397413120545a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\a1f5a8ac338b3f024a2397413120545a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7db76c38d4633e60a68a8e45c3cdbcbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\7db76c38d4633e60a68a8e45c3cdbcbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\fae1ad02acca067280c94e1d13718798\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\fae1ad02acca067280c94e1d13718798\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\14a0799b4871901e6c114de72215e6bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\14a0799b4871901e6c114de72215e6bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\6f95c912f738f28e9ad339e0dbbe8c41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\6f95c912f738f28e9ad339e0dbbe8c41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9a67ed0554638955f866171146547a4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9a67ed0554638955f866171146547a4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9abf7f0fb0d4f5b634f8b986b94cd014\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\9abf7f0fb0d4f5b634f8b986b94cd014\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\fcbf74a78f001c31ebc3f2c7c6bad95e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\fcbf74a78f001c31ebc3f2c7c6bad95e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e3c253254c8095b813c14e1652c38c4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\e3c253254c8095b813c14e1652c38c4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0ccb07cca1bd80d39daa8048ce6afb55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\0ccb07cca1bd80d39daa8048ce6afb55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\01e9a320c1e482375cc3b531b1a6e02d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\01e9a320c1e482375cc3b531b1a6e02d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\29f2222f9fe01e525e7b904e50e9e5c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Inter\.gradle\caches\transforms-2\files-2.1\29f2222f9fe01e525e7b904e50e9e5c7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inter\Desktop\otomo\InventoryControl\app\src\main\AndroidManifest.xml

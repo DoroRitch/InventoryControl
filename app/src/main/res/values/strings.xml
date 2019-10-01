@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inventory Control</string>
+    <string name="title">在庫管理</string>
+    <string name="record">履歴</string>
+    <string name="show">リスト表示</string>
+    <string name="newItem">品物登録</string>
+    <string name="changeCount">数量変更</string>
+    <string name="deleteItem">品物削除</string>
+    <string name="control_record">履歴表示</string>
+    <string name="itemName">品名</string>
+    <string name="itemCount">数量</string>
+    <string name="addItem">追加</string>
+    <string name="change">変更</string>
+    <string name="plus">追加</string>
+    <string name="minus">減少</string>
+    <string name="delete">削除</string>
+    <string name="back">戻る</string>
+    <string name="top_description">DBがあればここに表示されます。</string>
+    <string name="record_description">アイテムの追加、増減の履歴が表示されます。</string>
+</resources>
