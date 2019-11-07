@@ -7,6 +7,6 @@
   にあります。
   
 ## 環境
-  Android Studio 3.4.1
-  Android API Level 21
+  Android Studio 3.4.1  
+  Android API Level 21  
   JDK 1.7
